@@ -65,6 +65,4 @@ Follow these steps to get the project running locally:
 
 This project is licensed under the **ISC License**. See the `LICENSE` file for more details.
 
-## Author
 
-- **[Your Name]** - [Your Contact Info]
